@@ -9,5 +9,4 @@ To install additional python packages used in this program, open command promt a
 >pip install pillow
 3. pymysql
 >pip install pymysql
-![add](https://user-images.githubusercontent.com/60599324/117184979-f8a42880-adf6-11eb-8f39-fb51e276149d.jpg)
 
