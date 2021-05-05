@@ -29,10 +29,11 @@ To install additional python packages used in this program, open command promt a
 
 ![view](https://user-images.githubusercontent.com/60599324/117186335-56854000-adf8-11eb-92a8-7634eba89931.jpg)
 
+5. View All Song Record
+
 ![viewall](https://user-images.githubusercontent.com/60599324/117186470-7ae11c80-adf8-11eb-9524-ad6332c28160.jpg)
 
-5. View All Song Record
+6. View Playlists
  
 ![viewplaylists](https://user-images.githubusercontent.com/60599324/117186491-80d6fd80-adf8-11eb-8f18-0a80ae28077d.jpg)
 
-6. View Playlists
