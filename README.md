@@ -1,17 +1,14 @@
 # music-library-management-system
-A standalone dbms project for 5th semester engineering, without using css, html, php, etc,.
+A standalone dbms project for 5th semester engineering, without using css, html, php, etc,. This is a simple music library management system developed in Python, which allows you to add, delete, view and manage your music library. 
 
-The objective of this project is to the functionality of storing music based on people’s respective genre, for example- edm, indie, pop, rap etc. It aids in selection of genre - specific music at the external level, at the physical level, music is stored in the system as per their respective categories.
+## Installation
+To install additional Python packages used in this program, open a command prompt and enter the following command:
 
-To install additional python packages used in this program, open command promt and enter the following commands.
-1. tkinter
->pip install tkinter
-2. pillow
->pip install pillow
-3. pymysql
->pip install pymysql
-
-# Screenshots
+```
+pip install tkinter pillow pymysql
+```
+Screenshots
+The following screenshots demonstrate the various functionalities of the music library management system:
 
 1. Welcome Page
 
@@ -36,4 +33,3 @@ To install additional python packages used in this program, open command promt a
 6. View Playlists
  
 ![viewplaylists](https://user-images.githubusercontent.com/60599324/117186491-80d6fd80-adf8-11eb-8f18-0a80ae28077d.jpg)
-
