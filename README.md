@@ -7,7 +7,7 @@ To install additional Python packages used in this program, open a command promp
 ```
 pip install tkinter pillow pymysql
 ```
-Screenshots
+## Screenshots
 The following screenshots demonstrate the various functionalities of the music library management system:
 
 1. Welcome Page
